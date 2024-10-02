@@ -11,3 +11,5 @@ To run the project, you need to run the following command:
 To build the project on github pages, you need to run the following command:
 
 `npm run deploy`
+
+The site is live at https://ashraf-kabir.github.io/webp-to-jpg/
