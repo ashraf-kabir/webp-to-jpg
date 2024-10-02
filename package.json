@@ -1,5 +1,6 @@
 {
   "name": "webp-to-jpg",
+  "homepage": "https://ashraf-kabir.github.io/webp-to-jpg/",
   "private": true,
   "version": "1.0.0",
   "type": "module",
@@ -12,7 +13,8 @@
   "dependencies": {
     "browser-image-compression": "^2.0.2",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "react-scripts": "^5.0.1"
   },
   "devDependencies": {
     "@eslint/js": "^9.9.0",
@@ -23,6 +25,7 @@
     "eslint-plugin-react": "^7.35.0",
     "eslint-plugin-react-hooks": "^5.1.0-rc.0",
     "eslint-plugin-react-refresh": "^0.4.9",
+    "gh-pages": "^6.1.1",
     "globals": "^15.9.0",
     "vite": "^5.4.1"
   }
