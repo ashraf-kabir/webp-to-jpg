@@ -59,7 +59,7 @@ const ImageConverter = () => {
           download={`${downloadFileName}.jpg`}
           className='download-link'
         >
-          Converted && Download
+          Convert && Download
         </a>
       )}
     </div>
