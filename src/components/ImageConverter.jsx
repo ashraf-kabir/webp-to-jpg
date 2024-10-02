@@ -10,8 +10,6 @@ const ImageConverter = () => {
     try {
       const options = {
         fileType: 'image/jpeg',
-        maxSizeMB: 1,
-        maxWidthOrHeight: 1024,
         initialQuality: 1,
       };
 
